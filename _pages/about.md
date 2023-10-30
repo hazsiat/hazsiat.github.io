@@ -46,7 +46,7 @@ I am Hao Zhang (张 浩), ...
   **Hao Zhang**, Shuigeng Zhou, Chuanxu Yan, Jihong Guan, Xin Wang, Ji Zhang, and Jun (Luke) Huan.  
   IEEE Transactions on Cybernetics (**TCYB 2022**)
 
-  - [Combined Cause Inference: Definition, Model and Performance]().  
+- [Combined Cause Inference: Definition, Model and Performance]().  
   **Hao Zhang**, Chuanxu Yan, Shuigeng Zhou, Jihong Guan, and Ji Zhang.  
   Information Sciences (**IS 2022**)
   
