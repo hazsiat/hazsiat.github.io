@@ -85,6 +85,10 @@ I am Hao Zhang (张 浩), ...
 - [Causal Discovery by Using Regression-based Conditional Independence Tests]().  
   **Hao Zhang**, Shuigeng Zhou, Kun Zhang, and Jihong Guan.  
   31th AAAI Conference on Artificial Intelligence (**AAAI 2017**)
+
+- [Exploiting twitter moods to boost financial trend prediction based on deep network models]().  
+  Yifu Huang, Kai Huang, Yang Wang, **Hao Zhang**, Jihong Guan, and Shuigeng Zhou.
+  International Conference on Intelligent Computing (**ICIC 2016**)
   
 ## Activities
 ### Services
