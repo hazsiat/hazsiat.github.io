@@ -102,9 +102,9 @@ I am Hao Zhang (张 浩), ...
   Zhifeng Hao, **Hao Zhang**\*, and Ruichu Cai.  
   Applied Intelligence (**APIN 2015**)
   
-## Activities
+### Activities
+
 ### Services
-Reviewer for AAAI, IJCAI, ECML, etc.
 
 ### Teaching Assistant
 - 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery.  
