@@ -51,7 +51,7 @@ I am Hao Zhang (张 浩), ...
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB 2022**)
 
 - [An automatic hyperparameter optimization DNN model for precipitation prediction]().  
-  Yuzhong Peng, Daoqing Gong, Chuyan Deng, Hongya Li, Hongguo Cai, and **Hao Zhang**\*. 
+  Yuzhong Peng\*, Daoqing Gong, Chuyan Deng, Hongya Li, Hongguo Cai, and **Hao Zhang**\*. 
   Applied Intelligence (**APIN 2022**)
   
 - [Learning Causal Structures Based on Divide and Conquer]().  
