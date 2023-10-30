@@ -62,10 +62,10 @@ I am Hao Zhang (张 浩), ...
   **Hao Zhang**, Chuanxu Yan, Shuigeng Zhou, Jihong Guan, and Ji Zhang.  
   Information Sciences (**IS 2022**)
 
-- [Residual Similarity Based Conditional Independence Test and Its Application in Causal Discovery]().  
-  **Hao Zhang**, Shuigeng Zhou, Kun Zhang, and Jihong Guan.  
-  36th AAAI Conference on Artificial Intelligence (**AAAI 2022**)
-
+- [Enhanced sooty tern optimization algorithm using multiple search guidance strategies and multiple position update modes for solving optimization problems]().  
+  Jieguang He, Zhiping Peng, Delong Cui, Jingbo Qiu, Qirui Li, **Hao Zhang**.  
+  Applied Intelligence (**APIN 2022**)
+  
 - [Testing Independence Between Linear Combinations for Causal Discovery]().  
   **Hao Zhang**, Kun Zhang, Shuigeng Zhou, Jihong Guan, and Ji Zhang.  
   35th AAAI Conference on Artificial Intelligence (**AAAI 2021**)
