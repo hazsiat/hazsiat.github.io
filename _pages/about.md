@@ -30,6 +30,10 @@ I am Hao Zhang (张 浩), ...
   **Hao Zhang**, Yewei Xia, Kun Zhang, Shuigeng Zhou, Jihong Guan.  
   ACM Transactions on Knowledge Discovery from Data (**TKDD 2023**)
 
+- [High-dimensional causal discovery based on heuristic causal partitioning]().  
+  Yinghan Hong, Junping Guo*, Guizhen Mai, Yingqing Lin, **Hao Zhang**\*, Zhifeng Hao, and Gengzhong Zheng. 
+  Applied Intelligence (**APIN 2023**)
+  
 - [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
   **Hao Zhang**, Yewei Xia, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
