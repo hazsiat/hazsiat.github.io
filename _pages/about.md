@@ -49,6 +49,10 @@ I am Hao Zhang (张 浩), ...
 - [Combined Cause Inference: Definition, Model and Performance]().  
   **Hao Zhang**, Chuanxu Yan, Shuigeng Zhou, Jihong Guan, and Ji Zhang.  
   Information Sciences (**IS 2022**)
+
+- [Residual Similarity Based Conditional Independence Test and Its Application in Causal Discovery]().  
+  **Hao Zhang**, Shuigeng Zhou1, Kun Zhang, and Jihong Guan. 
+  36th AAAI Conference on Artificial Intelligence (**AAAI 2022**)
   
 ## Activities
 ### Services
