@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Zhang (张 浩), ...
-
 **Research interests**
 * Causal discovery, causal representation learning, machine learning under a causal perspective.
 * Domain adaptation/generalization with a valuable theoretical guarantee. 
