@@ -8,16 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am Hao Zhang (张 浩), a first-year PhD student at Fudan University.
-
-I am open to possible cooperation or visiting opportunities. 
-Further, I am always happy to collaborate with junior (undergraduate/master) students.
-Students from underrepresented groups are strongly encouraged to reach out!
-If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn).
- 
+I am Hao Zhang (张 浩), ...
 
 **Research interests**
-* Causal discovery (especially in heterogeneous environments), causal representation learning, machine learning under a causal perspective.
+* Causal discovery, causal representation learning, machine learning under a causal perspective.
 * Domain adaptation/generalization with a valuable theoretical guarantee. 
 * Probabilistic methods: inference, generative models, uncertainty modeling.
 * Self-supervised learning and its support theory.
