@@ -34,7 +34,7 @@ If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn
   
 - [Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810).  
   **Hao Zhang**, Yewei Xia, Kun Zhang, Shuigeng Zhou, Jihong Guan.  
-  ACM Transactions on Knowledge Discovery from Data (**TKDD**)
+  ACM Transactions on Knowledge Discovery from Data (**TKDD 2023**)
 
 - [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
   **Hao Zhang**, Yewei Xia, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
@@ -46,7 +46,7 @@ If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn
 
 - [Causal Gene Identification Using Non-linear Regression-based Independence Tests](https://ieeexplore.ieee.org/abstract/document/9709100).   
   **Hao Zhang**, Chuanxu Yan, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
-  IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
+  IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB 2022**)
   
 ## Activities
 ### Services
