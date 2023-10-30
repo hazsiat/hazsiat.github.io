@@ -81,6 +81,10 @@ I am Hao Zhang (张 浩), ...
 - [Efficient parallel optimizations of a high-performance SIFT on GPUs]().  
   Zhihao Li, Haipeng Jia, Yunquan Zhang, Shice Liu, Shigang Li, Xiao Wang, and **Hao Zhang**. 
   Journal of Parallel and Distributed Computing (**JPDC 2019**)
+
+- [An Extreme Learning Machine and Gene Expression Programming-Based Hybrid Model for Daily Precipitation Prediction]().  
+  Yuzhong Peng, Huasheng Zhao, **Hao Zhang**, Wenwei Li, Xiao Qin, Jianping Liao, Zhiping Liu, and Jie Li.
+  International Journal of Computational Intelligence Systems (**IJCIS 2019**)
   
 - [Measuring Conditional Independence by Using Independent Residuals: Theoretical Results and Application in Causal Discovery]().  
   **Hao Zhang**, Shuigeng Zhou, and Jihong Guan.  
@@ -93,6 +97,10 @@ I am Hao Zhang (张 浩), ...
 - [Exploiting twitter moods to boost financial trend prediction based on deep network models]().  
   Yifu Huang, Kai Huang, Yang Wang, **Hao Zhang**, Jihong Guan, and Shuigeng Zhou.
   International Conference on Intelligent Computing (**ICIC 2016**)
+
+- [Causal Discovery on High Dimensional Data]().  
+  Zhifeng Hao, **Hao Zhang**\*, and Ruichu Cai.  
+  Applied Intelligence (**APIN 2015**)
   
 ## Activities
 ### Services
