@@ -42,7 +42,7 @@ If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
 - [Causal Gene Identification Using Non-linear Regression-based Independence Tests](https://ieeexplore.ieee.org/abstract/document/9709100).   
-  **Hao Zhang**, Chuanxu Yan, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  
+  **Hao Zhang**, Chuanxu Yan, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
   
 ## Activities
