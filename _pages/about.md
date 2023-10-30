@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+I am an associate professor at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences.
+
 **Research interests**
 * Causal discovery, causal representation learning, machine learning under a causal perspective.
 * Domain adaptation/generalization with a valuable theoretical guarantee. 
