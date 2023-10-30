@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Yewei Xia (夏业伟), a first-year PhD student at Fudan University.
+I am Hao Zhang (张 浩), a first-year PhD student at Fudan University.
 
 I am open to possible cooperation or visiting opportunities. 
 Further, I am always happy to collaborate with junior (undergraduate/master) students.
