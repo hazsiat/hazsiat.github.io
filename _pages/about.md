@@ -42,6 +42,10 @@ I am Hao Zhang (张 浩), ...
   Yixin Ren, **Hao Zhang**, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
+- [MODILM: towards better complex diseases classification using a novel multi-omics data integration learning model]().   
+  Yating Zhong, Yuzhong Peng, Yanmei Lin, Dingjia Chen, **Hao Zhang**, Wen Zheng, Yuanyuan Chen, and Changliang Wu.
+  BMC Medical Informatics and Decision Making (**MIDM 2023**)
+  
 - [Causal Gene Identification Using Non-linear Regression-based Independence Tests](https://ieeexplore.ieee.org/abstract/document/9709100).   
   **Hao Zhang**, Chuanxu Yan, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB 2022**)
