@@ -57,6 +57,14 @@ I am Hao Zhang (张 浩), ...
 - [Testing Independence Between Linear Combinations for Causal Discovery]().  
   **Hao Zhang**, Kun Zhang, Shuigeng Zhou, Jihong Guan, and Ji Zhang.
   35th AAAI Conference on Artificial Intelligence (**AAAI 2021**)
+
+- [Recursively Learning Causal Structures Using Regression-based Conditional Independence Test]().  
+  **Hao Zhang**, Shuigeng Zhou, Jihong Guan, and Jun (Luke) Huan.
+  33th AAAI Conference on Artificial Intelligence (**AAAI 2019**)
+
+- [Measuring Conditional Independence by Independent Residuals for Causal Discovery]().  
+  **Hao Zhang**, Shuigeng Zhou, Jihong Guan, and Jun (Luke) Huan.
+  ACM Transactions on Intelligent Systems and Technology (**TIST 2019**)
   
 ## Activities
 ### Services
