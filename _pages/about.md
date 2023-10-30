@@ -78,6 +78,10 @@ I am Hao Zhang (张 浩), ...
   **Hao Zhang**, Shuigeng Zhou, Jihong Guan, and Jun (Luke) Huan.  
   ACM Transactions on Intelligent Systems and Technology (**TIST 2019**)
 
+- [Efficient parallel optimizations of a high-performance SIFT on GPUs]().  
+  Zhihao Li, Haipeng Jia, Yunquan Zhang, Shice Liu, Shigang Li, Xiao Wang, and **Hao Zhang**. 
+  Journal of Parallel and Distributed Computing (**JPDC 2019**)
+  
 - [Measuring Conditional Independence by Using Independent Residuals: Theoretical Results and Application in Causal Discovery]().  
   **Hao Zhang**, Shuigeng Zhou, and Jihong Guan.  
   32th AAAI Conference on Artificial Intelligence (**AAAI 2018**)
