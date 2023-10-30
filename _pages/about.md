@@ -51,20 +51,28 @@ I am Hao Zhang (张 浩), ...
   Information Sciences (**IS 2022**)
 
 - [Residual Similarity Based Conditional Independence Test and Its Application in Causal Discovery]().  
-  **Hao Zhang**, Shuigeng Zhou, Kun Zhang, and Jihong Guan. 
+  **Hao Zhang**, Shuigeng Zhou, Kun Zhang, and Jihong Guan.  
   36th AAAI Conference on Artificial Intelligence (**AAAI 2022**)
 
 - [Testing Independence Between Linear Combinations for Causal Discovery]().  
-  **Hao Zhang**, Kun Zhang, Shuigeng Zhou, Jihong Guan, and Ji Zhang.
+  **Hao Zhang**, Kun Zhang, Shuigeng Zhou, Jihong Guan, and Ji Zhang.  
   35th AAAI Conference on Artificial Intelligence (**AAAI 2021**)
 
 - [Recursively Learning Causal Structures Using Regression-based Conditional Independence Test]().  
-  **Hao Zhang**, Shuigeng Zhou, Jihong Guan, and Jun (Luke) Huan.
+  **Hao Zhang**, Shuigeng Zhou, Jihong Guan, and Jun (Luke) Huan.  
   33th AAAI Conference on Artificial Intelligence (**AAAI 2019**)
 
 - [Measuring Conditional Independence by Independent Residuals for Causal Discovery]().  
-  **Hao Zhang**, Shuigeng Zhou, Jihong Guan, and Jun (Luke) Huan.
+  **Hao Zhang**, Shuigeng Zhou, Jihong Guan, and Jun (Luke) Huan.  
   ACM Transactions on Intelligent Systems and Technology (**TIST 2019**)
+
+- [Measuring Conditional Independence by Using Independent Residuals: Theoretical Results and Application in Causal Discovery]().  
+  **Hao Zhang**, Shuigeng Zhou, and Jihong Guan.  
+  32th AAAI Conference on Artificial Intelligence (**AAAI 2018**)
+
+- [Causal Discovery by Using Regression-based Conditional Independence Tests]().  
+  **Hao Zhang**, Shuigeng Zhou, Kun Zhang, and Jihong Guan.  
+  31th AAAI Conference on Artificial Intelligence (**AAAI 2017**)
   
 ## Activities
 ### Services
