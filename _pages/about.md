@@ -24,9 +24,13 @@ If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn
 
 ## Publications 
 
+- [GEP-DL4Mol: A Novel Molecular Deep-learning Model Optimization Framework for Boosting Molecular Properties Prediction]().  
+  Yuzhong Peng\*, **Hao Zhang**\*, Ziqiao Zhang, Shuigeng Zhou, and Shaojie Qiao.  
+  24th IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2023**)
+  
 - [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance]().  
   Yewei Xia, **Hao Zhang**\*, Yixin Ren, Jihong Guan, and Shuigeng Zhou\*.  
-  23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper)
+  23rd IEEE International Conference on Data Mining (**ICDM 2023**)
   
 - [Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810).  
   **Hao Zhang**, Yewei Xia, Kun Zhang, Shuigeng Zhou, Jihong Guan.  
