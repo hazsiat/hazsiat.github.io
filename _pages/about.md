@@ -41,6 +41,10 @@ I am Hao Zhang (张 浩), ...
 - [Causal Gene Identification Using Non-linear Regression-based Independence Tests](https://ieeexplore.ieee.org/abstract/document/9709100).   
   **Hao Zhang**, Chuanxu Yan, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB 2022**)
+
+- [Learning Causal Structures Based on Divide and Conquer]().  
+  **Hao Zhang**, Shuigeng Zhou, Chuanxu Yan, Jihong Guan, Xin Wang, Ji Zhang, and Jun (Luke) Huan.  
+  IEEE Transactions on Cybernetics (**TCYB 2022**)
   
 ## Activities
 ### Services
