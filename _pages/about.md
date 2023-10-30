@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,70 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am Yewei Xia (夏业伟), a first-year PhD student at Fudan University.
+I belong to Prof. [Shuigeng Zhou](https://scholar.google.com/citations?user=yAE-Av4AAAAJ&hl=zh-CN)'s group.
+I received my bachelor's degree from Communication University of China. During my studies, I have spent time at Tencent, Alibaba DAMO Academy.
 
-A data-driven personal website
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
+I am open to possible cooperation or visiting opportunities. 
+Further, I am always happy to collaborate with junior (undergraduate/master) students.
+Students from underrepresented groups are strongly encouraged to reach out!
+If you are interested, feel free to contact me by [email](ywxia23@m.fudan.edu.cn).
+ 
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+**Research interests**
+* Causal discovery (especially in heterogeneous environments), causal representation learning, machine learning under a causal perspective.
+* Domain adaptation/generalization with a valuable theoretical guarantee. 
+* Probabilistic methods: inference, generative models, uncertainty modeling.
+* Self-supervised learning and its support theory.
 
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+## Publications 
+( * denotes equal contribution)
 
-Site-wide configuration
-------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
+- [Causal Discovery by Continuous Optimization with Conditional Independence Constraint: Methodology and Performance]().  
+  **Yewei Xia**, Hao Zhang, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
+  23rd IEEE International Conference on Data Mining (**ICDM 2023**, regular paper, acceptance rate $\sim$ 9.37%)
+  
+- [Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810).  
+  Hao Zhang\*, **Yewei Xia**\*, Kun Zhang, Shuigeng Zhou, Jihong Guan.  
+  ACM Transactions on Knowledge Discovery from Data (**TKDD**)
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
+  Hao Zhang, **Yewei Xia**, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
+  37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
-**Markdown generator**
+- [Multi-level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance](https://ojs.aaai.org/index.php/AAAI/article/view/25799).  
+  Yixin Ren, Hao Zhang, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  
+  37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
+- [Self-supervised Learning for Multimedia Recommendation](https://ieeexplore.ieee.org/abstract/document/9811387).   
+  Zhulin Tao, Xiaohao Liu, **Yewei Xia**, Xiang Wang, Lifang Yang, Xianglin Huang, Tat-Seng Chua.  
+  IEEE Transactions on Multimedia (**TMM**)
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+- [Causal Gene Identification Using Non-linear Regression-based Independence Tests](https://ieeexplore.ieee.org/abstract/document/9709100).   
+  Hao Zhang, Chuanxu Yan, **Yewei Xia**, Jihong Guan, Shuigeng Zhou.  
+  IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB**)
+  
+## Activities
+### Services
+Reviewer for AAAI, IJCAI, ECML, etc.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+### Teaching Assistant
+- 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery.  
+  Teacher: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Enrollment: 21 graduate students.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+## Selected Awards
+- International Collegiate Programming Contest (ACM-ICPC) Regional Contest Gold Medal.
+- Outstanding Graduate of Beijing, 2021.
+
+## Useful Links
+
+- [FAI Seminar](https://www.tengjiaye.com/seminar)
+- [Out-of-distribution Generalization Paper List](https://out-of-distribution-generalization.com/)
+- [How to Do Great Work](http://www.paulgraham.com/greatwork.html)
+- [Deep Learning Seminar](http://tianyuanzhang.com/teaching/)
+- [Tools Seminar](https://github.com/pppppass/ToolsSeminar)
+
+## Miscs
+* I enjoy sports and watching sports games, especially soccer and badminton. I am interested in analyzing soccer formation and tactics. Please feel free to reach out to me.
+* I enjoy playing sudoku, minesweeper and other mind games (including problems in algorithm contests >_<). 
+* In my spare time I like to read history books, especially Chinese history.
