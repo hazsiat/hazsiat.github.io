@@ -27,7 +27,7 @@ I am an associate professor at the Shenzhen Institute of Advanced Technology, Ch
   23rd IEEE International Conference on Data Mining (**ICDM 2023**)
   
 - [Conditional Independence Test Based on Residual Similarity](https://dl.acm.org/doi/abs/10.1145/3593810).  
-  **Hao Zhang**, Yewei Xia, Kun Zhang, Shuigeng Zhou, Jihong Guan.  
+  **Hao Zhang**, Yewei Xia, Kun Zhang, Shuigeng Zhou, and Jihong Guan.  
   ACM Transactions on Knowledge Discovery from Data (**TKDD 2023**)
 
 - [High-dimensional causal discovery based on heuristic causal partitioning]().  
@@ -35,11 +35,11 @@ I am an associate professor at the Shenzhen Institute of Advanced Technology, Ch
   Applied Intelligence (**APIN 2023**)
   
 - [Differentially Private Nonlinear Causal Discovery from Numerical Data](https://ojs.aaai.org/index.php/AAAI/article/view/26452).  
-  **Hao Zhang**, Yewei Xia, Yixin Ren, Jihong Guan, Shuigeng Zhou.  
+  **Hao Zhang**, Yewei Xia, Yixin Ren, Jihong Guan, and Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)   
 
 - [Multi-level Wavelet Mapping Correlation for Statistical Dependence Measurement: Methodology and Performance](https://ojs.aaai.org/index.php/AAAI/article/view/25799).  
-  Yixin Ren, **Hao Zhang**, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
+  Yixin Ren, **Hao Zhang**, Yewei Xia, Jihong Guan, and Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
 - [MODILM: towards better complex diseases classification using a novel multi-omics data integration learning model]().   
@@ -47,7 +47,7 @@ I am an associate professor at the Shenzhen Institute of Advanced Technology, Ch
   BMC Medical Informatics and Decision Making (**MIDM 2023**)
   
 - [Causal Gene Identification Using Non-linear Regression-based Independence Tests](https://ieeexplore.ieee.org/abstract/document/9709100).   
-  **Hao Zhang**, Chuanxu Yan, Yewei Xia, Jihong Guan, Shuigeng Zhou.  
+  **Hao Zhang**, Chuanxu Yan, Yewei Xia, Jihong Guan, and Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB 2022**)
 
 - [An automatic hyperparameter optimization DNN model for precipitation prediction]().  
@@ -63,7 +63,7 @@ I am an associate professor at the Shenzhen Institute of Advanced Technology, Ch
   Information Sciences (**IS 2022**)
 
 - [Enhanced sooty tern optimization algorithm using multiple search guidance strategies and multiple position update modes for solving optimization problems]().  
-  Jieguang He, Zhiping Peng, Delong Cui, Jingbo Qiu, Qirui Li, **Hao Zhang**.  
+  Jieguang He, Zhiping Peng, Delong Cui, Jingbo Qiu, Qirui Li, and **Hao Zhang**.  
   Applied Intelligence (**APIN 2022**)
   
 - [Testing Independence Between Linear Combinations for Causal Discovery]().  
