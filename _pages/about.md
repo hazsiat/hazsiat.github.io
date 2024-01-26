@@ -62,7 +62,7 @@ redirect_from:
   
 - [Causal Gene Identification Using Non-linear Regression-based Independence Tests](https://ieeexplore.ieee.org/abstract/document/9709100).   
   **Hao Zhang**, Chuanxu Yan, Yewei Xia, Jihong Guan, and Shuigeng Zhou.  
-  IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB 2022**)
+  IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB 2023**)
 
 - [An Automatic Nyperparameter Optimization DNN Model for Precipitation Prediction]().  
   Yuzhong Peng\*, Daoqing Gong, Chuyan Deng, Hongya Li, Hongguo Cai, and **Hao Zhang**\*. 
