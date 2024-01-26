@@ -10,14 +10,14 @@ redirect_from:
 
 中国科学院深圳先进技术研究院，副研究员
 
-广东工业大学本科、硕士，导师：郝志峰、蔡瑞初 教授
+广东工业大学 本硕，导师：郝志峰、蔡瑞初 教授
 
-复旦大学&美国卡内基梅隆大学联合培养博士，导师：Kun Zhang 教授
+复旦大学&美国卡内基梅隆大学 联合培养博士，导师：Kun Zhang 教授
 
 主要兴趣为因果学习与生物医学交叉研究
 
 **Research interests**
-* Causal discovery, causal representation learning, machine learning under a causal perspective.
+* Causal discovery, machine learning under a causal perspective.
 * Causal learning & Bioinformatics
   
 ## Publications 
