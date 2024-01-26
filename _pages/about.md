@@ -24,7 +24,7 @@ redirect_from:
 * Causal discovery, machine learning under a causal perspective.
 * Causal learning & Bioinformatics
   
-## Publications 
+**Publications** 
 
 - [Learning Adaptive Kernels for Statistical Independence Tests]().  
   Yixin Ren,  Yewei Xia, **Hao Zhang**\*, Jihong Guan, and Shuigeng Zhou\*.  
