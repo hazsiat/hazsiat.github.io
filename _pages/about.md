@@ -8,7 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I am an associate professor at the Shenzhen Institute of Advanced Technology, Chinese Academy of Sciences. 
+中国科学院深圳先进技术研究院，副研究员
+
+广东工业大学本科、硕士，导师：郝志峰、蔡瑞初 教授
+复旦大学&美国卡内基梅隆大学联合培养博士，导师：Kun Zhang 教授
 
 **Research interests**
 * Causal discovery, causal representation learning, machine learning under a causal perspective.
