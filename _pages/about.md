@@ -21,10 +21,6 @@ redirect_from:
 * 欢迎对因果/多模态/生物医学问题感兴趣的硕士生、博士生、实习/访问/客座学生
 * 欢迎博士后，待遇约40~45W/Y
 * 请联系 h.zhang10 at siat.ac.cn
-
-**Research interests**
-* Causal discovery, machine learning under a causal perspective.
-* Causal learning & Bioinformatics
   
 **Publications** 
 
