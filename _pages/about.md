@@ -7,14 +7,19 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+**现状**
 中国科学院深圳先进技术研究院，副研究员
 
+**学历**
 广东工业大学 本硕，导师：郝志峰、蔡瑞初 教授
 
 复旦大学&美国卡内基梅隆大学 联合培养博士，导师：周水庚、Kun Zhang 教授
 
+**爱好**
 主要兴趣为因果学习与生物医学交叉研究
+
+**招募**
+招募对因果/CV/生物医学数据有兴趣的硕士生、博士生、博士后、实习/访问/客座学生。
 
 **Research interests**
 * Causal discovery, machine learning under a causal perspective.
