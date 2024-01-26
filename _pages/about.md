@@ -12,12 +12,18 @@ I am an associate professor at the Shenzhen Institute of Advanced Technology, Ch
 
 **Research interests**
 * Causal discovery, causal representation learning, machine learning under a causal perspective.
-* Domain adaptation/generalization with a valuable theoretical guarantee. 
-* Probabilistic methods: inference, generative models, uncertainty modeling.
-* Self-supervised learning and its support theory.
-
+* Causal learning & Bioinformatics
+  
 ## Publications 
 
+- [Learning Adaptive Kernels for Statistical Independence Tests]().  
+  Yixin Ren,  Yewei Xia, **Hao Zhang**\*, Jihong Guan, and Shuigeng Zhou\*.  
+  27th International Conference on Artificial Intelligence and Statistics (**AISTATS 2024**)
+
+- [CDSC: Causal decomposition based on spectral clustering]().  
+  Shaofan Chen, Yuzhong Peng\*, Guoyuan He, **Hao Zhang**\*, Li Cai, Chengdong Wei. 
+  Information Sciences (**IS 2024**)
+  
 - [GEP-DL4Mol: A Novel Molecular Deep-learning Model Optimization Framework for Boosting Molecular Properties Prediction]().  
   Yuzhong Peng\*, **Hao Zhang**\*, Ziqiao Zhang, Shuigeng Zhou, and Shaojie Qiao.  
   24th IEEE International Conference on Bioinformatics and Biomedicine (**BIBM 2023**)
@@ -101,11 +107,3 @@ I am an associate professor at the Shenzhen Institute of Advanced Technology, Ch
 - [Causal Discovery on High Dimensional Data]().  
   Zhifeng Hao, **Hao Zhang**\*, and Ruichu Cai.  
   Applied Intelligence (**APIN 2015**)
-  
-### Activities
-
-### Services
-
-### Teaching Assistant
-- 2023 Fudan Intensive Summer Teaching: Foundations of Causal Inference and Discovery.  
-  Teacher: [Kun Zhang](https://www.andrew.cmu.edu/user/kunz1/index.html). Enrollment: 21 graduate students.
