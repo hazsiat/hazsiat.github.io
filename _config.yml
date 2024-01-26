@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Hao Zhang"
   avatar           : "profile.png"
-  bio              : # "Your biography for the left-hand sidebar"
+  bio              : "Your biography for the left-hand sidebar"
   location         : "Shenzhen, China"
   employer         :
   googlescholar    :  # "https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=zh-CN"
