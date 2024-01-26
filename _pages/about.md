@@ -17,8 +17,9 @@ redirect_from:
 **爱好**
 * 主要兴趣为因果学习与生物医学交叉研究
 
-**招募**
-* 招募对因果/CV/生物医学数据有兴趣的硕士生、博士生、博士后、实习/访问/客座学生。
+**招生**
+* 欢迎对因果/CV/生物医学数据有兴趣的硕士生、博士生、博士后、实习/访问/客座学生
+* 请联系 h.zhang10 at siat.ac.cn
 
 **Research interests**
 * Causal discovery, machine learning under a causal perspective.
