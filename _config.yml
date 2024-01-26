@@ -11,7 +11,7 @@ title                    : "Home"
 title_separator          : "-"
 name                     : &name Hao Zhang
 description              : &description "personal description"
-url                      : https://xyw5vplus1.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://hazsiat.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "hazsiat/hazsiat.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,10 +83,10 @@ author:
   name             : "Hao Zhang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Shanghai, China"
+  location         : "Shenzhen, China"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=zh-CN"
-  email            : "ywxia23@.m.fudan.edu.cn"
+  googlescholar    :  # "https://scholar.google.com/citations?user=meWQHcgAAAAJ&hl=zh-CN"
+  email            :  # "ywxia23@.m.fudan.edu.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "xyw5vplus1"
+  github           : "hazsiat"
   google_plus      :
   keybase          :
   instagram        :
