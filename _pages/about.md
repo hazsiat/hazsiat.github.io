@@ -14,6 +14,8 @@ redirect_from:
 
 复旦大学&美国卡内基梅隆大学联合培养博士，导师：Kun Zhang 教授
 
+主要兴趣为因果学习与生物医学交叉研究
+
 **Research interests**
 * Causal discovery, causal representation learning, machine learning under a causal perspective.
 * Causal learning & Bioinformatics
