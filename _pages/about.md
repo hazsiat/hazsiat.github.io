@@ -32,7 +32,7 @@ redirect_from:
   Yixin Ren,  Yewei Xia, **Hao Zhang**\*, Jihong Guan, and Shuigeng Zhou\*.  
   27th International Conference on Artificial Intelligence and Statistics (**AISTATS 2024**)
 
-- [CDSC: Causal decomposition based on spectral clustering]().  
+- [CDSC: Causal Decomposition Based on Spectral Clustering]().  
   Shaofan Chen, Yuzhong Peng\*, Guoyuan He, **Hao Zhang**\*, Li Cai, Chengdong Wei. 
   Information Sciences (**IS 2024**)
   
@@ -48,7 +48,7 @@ redirect_from:
   **Hao Zhang**, Yewei Xia, Kun Zhang, Shuigeng Zhou, and Jihong Guan.  
   ACM Transactions on Knowledge Discovery from Data (**TKDD 2023**)
 
-- [High-dimensional causal discovery based on heuristic causal partitioning]().  
+- [High-Dimensional Causal Discovery Based on Heuristic Causal Partitioning]().  
   Yinghan Hong, Junping Guo*, Guizhen Mai, Yingqing Lin, **Hao Zhang**\*, Zhifeng Hao, and Gengzhong Zheng.  
   Applied Intelligence (**APIN 2023**)
   
@@ -60,7 +60,7 @@ redirect_from:
   Yixin Ren, **Hao Zhang**, Yewei Xia, Jihong Guan, and Shuigeng Zhou.  
   37th AAAI Conference on Artificial Intelligence (**AAAI 2023**)     
 
-- [MODILM: towards better complex diseases classification using a novel multi-omics data integration learning model]().   
+- [MODILM: Towards Better Complex Diseases Classification Using a Novel Multi-Omics Data Integration Learning Model]().   
   Yating Zhong, Yuzhong Peng, Yanmei Lin, Dingjia Chen, **Hao Zhang**, Wen Zheng, Yuanyuan Chen, and Changliang Wu.
   BMC Medical Informatics and Decision Making (**MIDM 2023**)
   
@@ -68,7 +68,7 @@ redirect_from:
   **Hao Zhang**, Chuanxu Yan, Yewei Xia, Jihong Guan, and Shuigeng Zhou.  
   IEEE/ACM Transactions on Computational Biology and Bioinformatics (**TCBB 2022**)
 
-- [An automatic hyperparameter optimization DNN model for precipitation prediction]().  
+- [An Automatic Nyperparameter Optimization DNN Model for Precipitation Prediction]().  
   Yuzhong Peng\*, Daoqing Gong, Chuyan Deng, Hongya Li, Hongguo Cai, and **Hao Zhang**\*. 
   Applied Intelligence (**APIN 2022**)
   
@@ -80,7 +80,7 @@ redirect_from:
   **Hao Zhang**, Chuanxu Yan, Shuigeng Zhou, Jihong Guan, and Ji Zhang.  
   Information Sciences (**IS 2022**)
 
-- [Enhanced sooty tern optimization algorithm using multiple search guidance strategies and multiple position update modes for solving optimization problems]().  
+- [Enhanced Sooty Tern Optimization Algorithm Using Multiple Search Guidance Strategies and Multiple Position Update Modes for Solving Optimization Problems]().  
   Jieguang He, Zhiping Peng, Delong Cui, Jingbo Qiu, Qirui Li, and **Hao Zhang**.  
   Applied Intelligence (**APIN 2022**)
   
@@ -96,7 +96,7 @@ redirect_from:
   **Hao Zhang**, Shuigeng Zhou, Jihong Guan, and Jun (Luke) Huan.  
   ACM Transactions on Intelligent Systems and Technology (**TIST 2019**)
 
-- [Efficient parallel optimizations of a high-performance SIFT on GPUs]().  
+- [Efficient Parallel Optimizations of a High-Performance SIFT on GPUs]().  
   Zhihao Li, Haipeng Jia, Yunquan Zhang, Shice Liu, Shigang Li, Xiao Wang, and **Hao Zhang**. 
   Journal of Parallel and Distributed Computing (**JPDC 2019**)
 
