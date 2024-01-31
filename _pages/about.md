@@ -7,22 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-**现状**
-* 张浩，中国科学院深圳先进技术研究院，副研究员
+%**现状**
+%* 张浩，中国科学院深圳先进技术研究院，副研究员
 
-**学历**
-* 广东工业大学 本硕，导师：郝志峰、蔡瑞初 教授
-* 复旦大学&美国卡内基梅隆大学 联合培养博士，导师：周水庚、Kun Zhang 教授
+%**学历**
+%* 广东工业大学 本硕，导师：郝志峰、蔡瑞初 教授
+%* 复旦大学&美国卡内基梅隆大学 联合培养博士，导师：周水庚、Kun Zhang 教授
 
-**爱好**
-* 因果学习与生物医学交叉研究
+%**爱好**
+%* 因果学习与生物医学交叉研究
 
-**招生/博后**
-* 欢迎对因果/多模态/生物医学问题感兴趣的硕士生、博士生、实习/访问/客座学生
-* 欢迎博士后，待遇约40~45W/Y
-* 请联系 h.zhang10 at siat.ac.cn
+%**招生/博后**
+%%* 欢迎对因果/多模态/生物医学问题感兴趣的硕士生、博士生、实习/访问/客座学生
+%* 欢迎博士后，待遇约40~45W/Y
+%* 请联系 h.zhang10 at siat.ac.cn
   
-**Publications** 
+%**Publications** 
 
 - [Learning Adaptive Kernels for Statistical Independence Tests]().  
   Yixin Ren,  Yewei Xia, **Hao Zhang**\*, Jihong Guan, and Shuigeng Zhou\*.  
