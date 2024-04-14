@@ -15,7 +15,7 @@ redirect_from:
 
 - [CDSC: Causal Decomposition Based on Spectral Clustering]().  
   Shaofan Chen, Yuzhong Peng\*, Guoyuan He, **Hao Zhang**\*, Li Cai, Chengdong Wei. 
-  Information Sciences (**IS 2024**)
+  Information Sciences (**INS 2024**)
   
 - [GEP-DL4Mol: A Novel Molecular Deep-learning Model Optimization Framework for Boosting Molecular Properties Prediction]().  
   Yuzhong Peng\*, **Hao Zhang**\*, Ziqiao Zhang, Shuigeng Zhou, and Shaojie Qiao.  
@@ -59,7 +59,7 @@ redirect_from:
 
 - [Combined Cause Inference: Definition, Model and Performance]().  
   **Hao Zhang**, Chuanxu Yan, Shuigeng Zhou, Jihong Guan, and Ji Zhang.  
-  Information Sciences (**IS 2022**)
+  Information Sciences (**INS 2022**)
 
 - [Enhanced Sooty Tern Optimization Algorithm Using Multiple Search Guidance Strategies and Multiple Position Update Modes for Solving Optimization Problems]().  
   Jieguang He, Zhiping Peng, Delong Cui, Jingbo Qiu, Qirui Li, and **Hao Zhang**.  
